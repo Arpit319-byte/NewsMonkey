@@ -12,7 +12,10 @@ export default class App extends Component {
        <News/>
 
        <h1>
-        
+
+
+
+        <h1>hello world</h1>
        </h1>
         
       </div>

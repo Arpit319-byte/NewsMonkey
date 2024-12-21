@@ -67,6 +67,9 @@ export class News extends Component {
       </div>
     );
   }
+
+
+  
 }
 
 export default News;
